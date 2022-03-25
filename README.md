@@ -16,6 +16,8 @@ Summary for December temperatures:
 * mean = 71.041529
 * std: 3.745920
 
+![Uploading Screen Shot 2022-03-24 at 8.24.14 PM.png…]()
+
 ## Summary:
 
 Two additional queries we can add to our data to determine if ice cream business is sustainable year round is determing the preciptation rates during the day and the best location to build a ice cream shop so that it doesnt get washed/rained out.
