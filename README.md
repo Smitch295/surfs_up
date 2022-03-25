@@ -16,7 +16,8 @@ Summary for December temperatures:
 * mean = 71.041529
 * std: 3.745920
 
-![Uploading Screen Shot 2022-03-24 at 8.24.14 PM.png…]()
+![Screen Shot 2022-03-24 at 8 25 17 PM](https://user-images.githubusercontent.com/93875400/160030967-f940a2ab-1a30-4a53-b9d5-6aa9518b2b9c.png)
+
 
 ## Summary:
 
